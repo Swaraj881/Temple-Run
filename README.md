@@ -1,1 +1,2 @@
-# Temple-Run
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
